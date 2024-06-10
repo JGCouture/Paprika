@@ -12,7 +12,7 @@ npm start
 
 # Screenshots
 
-![Paprika Home](/src/images/project structure.png)
+![Paprika Home](/src/images/project_structure.png)
 
 ![Paprika Home](/src/images/s1.png)
 
